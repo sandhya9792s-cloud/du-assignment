@@ -1,3 +1,4 @@
+#WAP to find greads using marks.
 marks=int(input("enter your mark="))
 if marks>=90:
     print("gread='o'")S
