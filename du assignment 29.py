@@ -1,3 +1,4 @@
+#WAP to check whether the no. in palindrome or not.
 num=int(input("enter a number:"))
 original=num
 reverse=0
