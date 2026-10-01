@@ -1,3 +1,4 @@
+#WAP to find factorial.
 sum=int(input("enter a num"))
 factorial=1
 for i in range(1, sum+1):
