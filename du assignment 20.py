@@ -1,3 +1,4 @@
+#gernate all prime no. till n.
 def prime(n):
     for num in range(2,n+1):
         for i in range(2,num):
