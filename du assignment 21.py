@@ -1,3 +1,4 @@
+#gernate the first n prime no.
 def prime(n):
     count=0
     num=2
