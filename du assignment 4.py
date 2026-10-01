@@ -1,3 +1,4 @@
+#for multipal condition(more than two). 
 num=int(input("enter a number"))
 if num>0:
     print("positive")
