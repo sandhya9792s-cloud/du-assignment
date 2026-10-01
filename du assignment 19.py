@@ -1,3 +1,4 @@
+#1^2+2^2+3^2+_____+n^2.
 def square(a):
     return a**2
 n=int(input("enter a value of n"))
